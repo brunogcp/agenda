@@ -1,0 +1,3 @@
+bruno;99999-9999;bruno.guilherme@souunit.com.br;av. 1
+maria;88888-8888;maria@souunit.com.br;av. 2
+lucas;77777-7777;lucas@souunit.com.br;av. 3
